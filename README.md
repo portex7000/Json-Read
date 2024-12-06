@@ -1,4 +1,4 @@
-# [JsonRead](portex7000.github.io/Json-Read)
+# [JsonRead](https://portex7000.github.io/Json-Read/)
 A python executable app, that can read json files directly from the command prompt
 
 # How to use
